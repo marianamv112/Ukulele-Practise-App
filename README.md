@@ -1,6 +1,8 @@
 # Ukulele Practise Platform 
 > An app for self-taught ukelele players who practice for fun. 
 
+* [Project Deliverables](https://drive.google.com/file/d/1r6eW0BNMQohj7w4RwZ43Riw4Gg3t4EX5/view?usp=sharing)
+
 ## Contents
 
 - [User Flow](#user-flow)
